@@ -26,7 +26,7 @@
 /* catagories style  */
 .catagories-custom-1{
     border-radius: 20px;
-    background-image: linear-gradient(#FF9C35,#FFD019);
+    background-image: linear-gradient(#FFD019,#FF9C35);
 }
 .catagories-custom-2{
     border-radius: 10px;
@@ -50,4 +50,14 @@
 }
 .buy-now-btn{
     justify-content: center;
+}
+/* subscribe-custom */
+.btn-send{
+    margin-top: 10px;
+    padding: 10px 40px;
+    border: none;
+    background-color:#FF589B;
+    border-radius: 10px;
+    color: white;
+    font-weight: 600;
 }
